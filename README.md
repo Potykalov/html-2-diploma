@@ -1,12 +1,12 @@
 # Итоговая работа по модулю "HTML-верстка:с нуля до первого макета"
 
+<img src="images/NOEMI.jpg">
+
 Данный проект выполнен в рамках обучения на курсе по HTML и CSS от Нетологии.  
 Цель проекта — сверстать адаптивный сайт по готовому макету.
 
-🔗 Задание по модулю доступно [по ссылке](https://github.com/netology-code/html-2-diploma).
+🔗 Задание по модулю доступно [по ссылке](https://github.com/netology-code/html-2-diploma).<br>
 📌 Посмотреть проект онлайн на [GitHub Pages](https://potykalov.github.io/html-2-diploma/)
-
-<img src="images/NOEMI.jpg">
 
 ## 📌 О проекте
 
