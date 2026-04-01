@@ -5,6 +5,8 @@
 
 Задание для итоговой работы по модулю доступно [по ссылке](https://github.com/netology-code/html-2-diploma).
 
+📌 Посмотреть проект онлайн: [GitHub Pages](https://potykalov.github.io/html-2-diploma/)
+
 <img src="images/NOEMI.jpg">
 
 ## 📌 О проекте
