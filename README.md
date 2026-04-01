@@ -6,7 +6,7 @@
 Цель проекта — сверстать адаптивный сайт по готовому макету.
 
 🔗 Задание по модулю доступно [по ссылке](https://github.com/netology-code/html-2-diploma).<br>
-📌 Посмотреть проект онлайн на [GitHub Pages](https://potykalov.github.io/html-2-diploma/)
+📌 Посмотреть проект онлайн на [GitHub Pages](https://potykalov.github.io/html-2-diploma/).
 
 ## 📌 О проекте
 
