@@ -1,3 +1,5 @@
+<img alt="GitHub License" src="https://img.shields.io/github/license/potykalov/tic-tac-toe-js">
+
 # Итоговая работа по модулю "HTML-верстка: с нуля до первого макета"
 
 <img src="images/NOEMI.jpg">
@@ -42,6 +44,14 @@
 
 ## 📂 Структура проекта
 
+```text
     .
     ├── index.html
     ├── style.css
+    .
+```
+
+## 📄 Лицензия
+
+Проект распространяется под лицензией MIT.  
+Подробнее см. файл [LICENSE](LICENSE).
